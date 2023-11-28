@@ -1,3 +1,5 @@
+
+#need to read and check all versions
 # QONNX: Arbitrary-Precision Quantized Neural Networks in ONNX
 
 [![ReadTheDocs](https://readthedocs.org/projects/qonnx/badge/?version=latest&style=plastic)](http://qonnx.readthedocs.io/)
